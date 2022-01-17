@@ -22,13 +22,13 @@
 .Created JWTtoken.js to save token, Service.js to export all api functions(all backend api calls) and url.js to export main api url.
 
 - localStorage 
--To set the data-> localStorage.setItem(key,value)
--To read data-> localStorage.getItem(key)
--To remove data->localStorage.removeItem(key)
+.To set the data-> localStorage.setItem(key,value)
+.To read data-> localStorage.getItem(key)
+.To remove data->localStorage.removeItem(key)
 
 ## Homepage 
 
-- Homepage integration is done using the givren theme/
+- Homepage integration is done using the given theme.
 
 - Create necessary components
 -Created includes folder in which slider.vue and sidebar.vue components are stored.
