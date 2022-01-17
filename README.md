@@ -61,6 +61,7 @@ Otherwise, have to add address and apply valid coupon code if something went wro
 ## To run the project
 - npm install
 - npm run serve
+- For test login Email:first@gmail.com Password:1234567890
 
 
 
