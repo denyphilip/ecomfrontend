@@ -43,8 +43,8 @@
 
 ## Checkout
 
-- User have to provide address and can apply coupon by entering it to the textbox and clicking apply coupon and price would be reduced. For successful checkout order is placed.
-Otherwise have to add address and apply valid coupon code if something went wrong.
+- User have to provide address and can apply coupon by entering it to the textbox and clicking apply coupon and price would be reduced. For successful checkout, order is placed.
+Otherwise, have to add address and apply valid coupon code if something went wrong.
 
 ## My Account
 
