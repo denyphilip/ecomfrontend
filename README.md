@@ -7,19 +7,19 @@
 ## Setup(Install required packages)
 
 - Vuex -> npm install vuex --save
--Data stored in the Vuex store can be accessed from any component in the application.In the index.js of the store path, imported the modules of vuex.
+.Data stored in the Vuex store can be accessed from any component in the application.In the index.js of the store path, imported the modules of vuex.
 
 - Vue Router -> npm install vue-router --save
--Vue router helps us to navigate the pages of our application.Created Roter folder and index.js file(src/router/index.js)
+.Vue router helps us to navigate the pages of our application.Created Roter folder and index.js file(src/router/index.js)
 
 - Axios -> npm i axios vue-axios --save
--We can send data and retrieve data through the Rest API.
+.We can send data and retrieve data through the Rest API.
 
 - Vuelidate -> npm install vuelidate --save
--For validations.All the above are imported in main.js file.
+.For validations.All the above are imported in main.js file.
 
 - Common folder(src/common/)
--Created JWTtoken.js to save token, Service.js to export all api functions(all backend api calls) and url.js to export main api url.
+.Created JWTtoken.js to save token, Service.js to export all api functions(all backend api calls) and url.js to export main api url.
 
 - localStorage 
 -To set the data-> localStorage.setItem(key,value)
@@ -32,7 +32,7 @@
 
 - Create necessary components
 -Created includes folder in which slider.vue and sidebar.vue components are stored.
--Created all other necessary ecommerce vue components
+.Created all other necessary ecommerce vue components
 
 ## User Registration and Login
 - Frontend users can register and login. Role type for front end user is customer
