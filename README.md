@@ -2,7 +2,7 @@
 
 ## Project info
 
-- Set up a new project in vue named ecomfrontend. Have used Vuex to manage our application state,Vue router forr navigation and Axios to fetch data from the API.
+- Set up a new project in vue named ecomfrontend. Have used Vuex to manage our application state,Vue router for navigation and Axios to fetch data from the API.
 
 ## Setup(Install required packages)
 
